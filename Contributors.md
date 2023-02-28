@@ -6,6 +6,7 @@
 - [Anamol Dhakal] (https://github.com/AnamolZ)
 - [Nizam Y Chaudhary] (https://github.com/Nizam9313)
 - [Mahmud Karim] (https://github.com/mahmud-karim)
+- Andrea Saitta (https://github.com/andreesa3)
 - [Matthew Lee] (https://github.com/mattyleecifer/)
 - [Mohamed Marzuq](https://github.com/mohamedmarzuq5/)
 - [Manu B M](https://github.com/ManuBM555)
